@@ -1,0 +1,48 @@
+/* add your CSS here */
+#image{
+	
+	height: 300px;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+#fact{
+	font-family: 'Italianno', cursive;
+	font-size: 35px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+.label{
+	font-weight: bold;
+}
+
+ul li{
+	list-style: none;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#maindiv{
+	border:1px solid;
+	box-shadow: 5px 10px #a2fac7;
+	padding: 20px;
+	width: 300px;
+	background-color: #3BEB98;
+
+}
+
+#fristdiv{
+	border:1px black solid;
+	background-color: #52FFAD;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+}
+
+#discription{
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+}
